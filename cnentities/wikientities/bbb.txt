@@ -1,0 +1,313 @@
+﻿交换子系统,nz
+客户数据与移动性管理,abstract
+安全性管理,abstract
+数据库功能,abstract
+MSC,nz
+GSM 系统,nz
+移动台进行控制,abstract
+完成话路交换,abstract
+接口,nz
+网络接口,abstract
+公共信道信令系统,abstract
+计费,abstract
+BSS、MSC 之间的切换,abstract
+辅助性的无线资源管理,abstract
+移动性管理,abstract
+网关MSC(GMSC),nz
+查询位置信息,abstract
+呼叫路由,nz
+VLR,nz
+数据库,nz
+存储,abstract
+管辖区域,nz
+MS,nz
+拜访客户,nz
+去话呼叫,nz
+来话,nz
+交换功能,abstract
+所需检索的信息,abstract
+客户的号码,abstract
+位置区域的识别,abstract
+客户提供的服务,abstract
+闭锁,nz
+HLR,nz
+管理部门,nz
+移动客户,nz
+归属位置寄存器,nz
+有关客户的参数,abstract
+有关客户目前所处位置的信息,abstract
+建立至移动台的呼叫路由,abstract
+主要存储两类信息,abstract
+VLR 地址,nz
+AUC,nz
+确定移动客户的身份,abstract
+呼叫保密所需鉴权、加密的三参数,abstract
+随机号码 RAND,nz
+符合响应 SRES,nz
+密钥 Kc,nz
+EIR,nz
+存储有关移动台设备参数,abstract
+识别,abstract
+监视,abstract
+移动设备,nz
+防止非法移动台的使用,abstract
+无线基站子系统,nz
+BSS 系统,nz
+无线覆盖区,nz
+与 MS 进行通信,abstract
+系统设备,nz
+完成无线发送接收,abstract
+无线资源管理,abstract
+基站控制器,nz
+码型变换器,nz
+基站收发信台,nz
+BTS,nz
+TC,nz
+BSC,nz
+功能实体,abstract
+编码,nz
+PCM 编码,nz
+16kbit/s,abstract
+64kbit/s,abstract
+码型转换,abstract
+控制,abstract
+无线网络资源的管理,abstract
+小区配置数据管理,abstract
+功率控制,abstract
+定位,abstract
+切换,abstract
+业务控制点,nz
+无线接口设备,nz
+无线传输,abstract
+完成无线与有线的转换,abstract
+无线分集,abstract
+无线信道加密,abstract
+跳频,abstract
+移动台,nz
+移动客户设备部分,nz
+移动终端,nz
+客户识别卡,nz
+SIM,nz
+手机,nz
+话音编码,abstract
+信道编码,abstract
+信息加密,abstract
+信息的调制,abstract
+解调,abstract
+信息发射,abstract
+接收,abstract
+SIM 卡,nz
+身份卡,nz
+GSM 网络,nz
+网络规模,nz
+容量,nz
+网络质量,nz
+频率资源,nz
+频率复用系数,nz
+通信网络,nz
+运行状态,nz
+通信质量,nz
+平均服务水平,nz
+设备的利用率,nz
+移动通信网络,nz
+周围环境,nz
+话务量分布,nz
+移动网络,nz
+移动用户的高速发展,abstract
+用户越来越高的要求,abstract
+竞争的激烈,abstract
+小区参数,nz
+接入电平门限,nz
+切换电平门限,nz
+相邻小区定义,nz
+频率配置,nz
+服务质量,nz
+用户满意度,nz
+网络指标,nz
+移动通信网络优化,nz
+数据采集,nz
+数据分析,nz
+系统参数的调整,abstract
+系统设备配置的调整,abstract
+最佳的运行状态,abstract
+网络资源获得最佳的效益,abstract
+网络的维护,abstract
+规划建设,abstract
+网络优化,nz
+过程,nz
+移动用户的满意,abstract
+吸引和发展更多的用户,abstract
+OMC 统计,nz
+路测,nz
+用户投诉,nz
+发现问题,abstract
+网络容量,nz
+覆盖,nz
+质量,nz
+KPI 指标,nz
+系统变量的最佳值,abstract
+优化有关性能指标参数,abstract
+最大限度地发挥网络的能力,abstract
+提高网络的平均服务质量,abstract
+高质量的语音,nz
+网络覆盖率,nz
+无线接通率,nz
+减少运营成本,abstract
+提高设备的利用率,abstract
+增加网络容量,abstract
+减少设备和线路的投资,abstract
+降低网络运营成本,abstract
+提高企业竞争的优势,abstract
+信号覆盖,nz
+掉线次数,nz
+话音,nz
+接通,nz
+用户,nz
+掉话率,nz
+拥塞率,nz
+切换成功率,nz
+小区覆盖率,nz
+接通率,nz
+集中优化,nz
+日常优化,nz
+无线网络规划,nz
+无线电波传播的不确定性,abstract
+基础设施,nz
+话务负荷,nz
+话务要求,nz
+用户对服务质量要求的增加,abstract
+无线网络优化,nz
+网络规划,nz
+设备排障,nz
+统计数据分析,nz
+工程效果评估,nz
+话务平衡,nz
+覆盖优化,nz
+交换优化,nz
+局数据,nz
+路由数据,nz
+均衡网络负荷,nz
+信令负荷,nz
+设备负荷,nz
+链路负荷均衡,nz
+信令,nz
+话务路由,nz
+系统调查,nz
+制定,nz
+动态的多维系统,nz
+终端用户,nz
+网络无线环境,nz
+网络结构,nz
+应用技术,nz
+呼叫模型,nz
+用户的地理分布,abstract
+建筑,nz
+道路,nz
+植被,nz
+网络测试,nz
+覆盖范围,nz
+系统容量,nz
+新设备,nz
+新标准,nz
+新业务,nz
+网络中存在的问题,abstract
+局部网络,nz
+个别网络单元,nz
+小区掉话较高,abstract
+网络运营质量,nz
+小区的选择,abstract
+重选程序,nz
+Ms,nz
+BCCH 信道,nz
+下行链路数据,nz
+上行链路,nz
+通信率,nz
+服务小区,nz
+网络,nz
+通信,nz
+某个小区,nz
+寻呼消息,nz
+BCCH 信道广播,nz
+系统消息,nz
+RACH 信道,nz
+发出接入请求,abstract
+服务小区系统广播消息,nz
+?BCCH 分配(BA,nz
+小区重选,abstract
+BA 表,nz
+BCCH 的系统消息,nz
+BCCH频点,nz
+空闲模式,nz
+小区选择和重选,abstract
+SACCH上系统消息,nz
+专用模式,nz
+BCCH 频点,nz
+切换监测,nz
+小区选择过程,abstract
+手机开机,abstract
+PLMN 允许的所有频点,abstract
+合适的小区,nz
+盲区,nz
+覆盖区,nz
+小区选择,abstract
+小区重选过程,abstract
+某小区,nz
+BCCH 系统消息,nz
+小区重选邻小区领点配置表,abstract
+接收电平的测量,abstract
+测量样点,abstract
+MS 例行测量程序,abstract
+测量目前服务小区 BCCH 载频,abstract
+移动台当前服务小区,nz
+移动台当前服务小区,nz
+C2,nz
+C2值,nz
+C1值,nz
+下行链路故障,abstract
+位置更新,abstract
+GSM 覆盖区,nz
+位置区,nz
+一个或多个小区,nz
+存储每个移动台的位置区,abstract
+寻呼该移动台,abstract
+位置信息,nz
+对移动台的寻呼,abstract
+对移动台所在位置区的所有小区中寻呼,abstract
+Msc 容量较大,abstract
+不可能对所控制区域内的所有小区一起进行寻呼,abstract
+寻呼负荷将会很大,abstract
+位置区的标识(LAc 码),nz
+小区广播信道,nz
+移动台由一个位置区移动到另一个位置区,abstract
+在新的位置区进行登记,abstract
+存储器中的 LAI,nz
+接收到当前小区的 LAI 号,abstract
+通知网络,abstract
+更改它所存储的移动台的位置信息,abstract
+网络对位置更新的标识不同,abstract
+正常位置更新,abstract
+周期性位置更新,abstract
+IMSI 附着,abstract
+位置更新可分为三种,abstract
+一般位置更新,abstract
+MSC 之间的位置更新过程,abstract
+BTS 小区,nz
+不同 MSC 的另一个BTS 小区,nz
+BCCH 载频信号强度在减弱,abstract
+另一 BTS 小区的 BCCH信号在增强,abstract
+向 MSC 发送一个具有?我在这里?的信息,abstract
+位置更新请求,abstract
+给出 MSC 的和 MS 的识别码,abstract
+位置更新请求消息送给 HLR,abstract
+修改该客户数据,abstract
+回给 MSC 一个确认响应,abstract
+进行数据注册,abstract
+新的MSC,nz
+位置更新确认,abstract
+删除 VLR 中有关该 MS的客户数据,abstract
+MS 的鉴权,abstract
+发送?IMSI 分离?消息,abstract
+无线链路质量很差,abstract
+衰落很大,abstract
+GSM 系统有可能不能正确译码,abstract
+系统仍认为 MS 处于附着状态,abstract
