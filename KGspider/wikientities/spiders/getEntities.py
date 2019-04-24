@@ -79,7 +79,7 @@ class entitiesSpider(scrapy.spiders.Spider):
 				entity = line.split(",")[0]
 				entityList.append(entity)
 		for entity in entityList:
-			url="http://shuyantech.com/api/cndbpedia/avpair?q="+entity
+			url="http://shuyantech.com/api/cndbpedia/avpair?q="+entity+'&apikey=96d16cb944abac391be5f799e01ef336'
 			url_list.append(url)
 		###宽度优先
 		work=[]
